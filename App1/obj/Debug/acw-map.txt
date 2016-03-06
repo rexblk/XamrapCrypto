@@ -1,0 +1,4 @@
+Xamrap_Crypto.MainActivity, Xamrap Crypto;md5351aeb8f1794ff2424239c895e6377a6.MainActivity
+Xamrap_Crypto.MainActivity, Xamrap Crypto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5351aeb8f1794ff2424239c895e6377a6.MainActivity
+Xamrap_Crypto.MainActivity;md5351aeb8f1794ff2424239c895e6377a6.MainActivity
+xamrap_crypto.MainActivity;md5351aeb8f1794ff2424239c895e6377a6.MainActivity
